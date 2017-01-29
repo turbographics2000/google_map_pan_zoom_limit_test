@@ -1,0 +1,1 @@
+# google_map_pan_zoom_limit_test
